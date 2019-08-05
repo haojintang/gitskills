@@ -8,5 +8,3 @@ line 3
 apple
 orange
 
-one file
-
