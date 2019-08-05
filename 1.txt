@@ -7,5 +7,10 @@ line 3
 6
 apple
 orange
+
 master 1
+
+cherry1
+cherry2
+
 
