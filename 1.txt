@@ -1,6 +1,3 @@
-orange
-
-master 1
 
 cherry1
 cherry2
